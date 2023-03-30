@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33424.131
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Trójkąt", "Trójkąt\Trójkąt.csproj", "{802EC660-CAD7-4598-BEE3-1EB038D2A232}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{802EC660-CAD7-4598-BEE3-1EB038D2A232}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{802EC660-CAD7-4598-BEE3-1EB038D2A232}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{802EC660-CAD7-4598-BEE3-1EB038D2A232}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{802EC660-CAD7-4598-BEE3-1EB038D2A232}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {21D5AC20-A18A-46FA-86BE-2E44909665C4}
+	EndGlobalSection
+EndGlobal
